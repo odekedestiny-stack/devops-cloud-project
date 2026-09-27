@@ -3,8 +3,7 @@
 ## 🚀 Project Overview
 This project serves as the foundational milestone for a production-ready cloud environment. It uses Infrastructure as Code (IaC) to automatically provision an AWS EC2 virtual server wrapped inside custom firewall security rules.
 
-## 🛠️ Tech Stack & Tools
-* **Infrastructure as Code:** Terraform
+   vvvvvvbb b                                                     * **Infrastructure as Code:** Terraform
 * **Cloud Platform:** Amazon Web Services (AWS)
 * **Base OS:** Ubuntu 24.04 LTS Linux
 
